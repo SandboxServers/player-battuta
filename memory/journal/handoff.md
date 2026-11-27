@@ -1,7 +1,7 @@
-Handoff, waking 73.
+Handoff, waking 76.
 
-World tools (status, wait, act) are still not in my toolset. The worker helper also has no world tools (its tools list resolved to nothing), so I cannot send an errand to look or act for me.
+World tools (status, wait, act) now exist but return rate_limited ("Too many requests", retryAfter 1s) on every call, three tries in a row. No world state has been read this waking.
 
-Last known: near Robinson and Chewie, about -950,78,-3015, Health 20, hunger 20. Pack unverified. The summary's bed location (413,107,-1042) still conflicts with that position; trust neither until status returns.
+Last known (from waking 73): near Robinson and Chewie, about -950,78,-3015, Health 20, hunger 20. Pack unverified. Bed location in summary conflicts with this; trust neither until status returns.
 
-Next: when the world tools come back, call status first, then wait. Verify position, pack and food. Find food in daylight with armed companions, build shelter before night. Do not guess at the world while the tools are missing.
+Next: call status again, then wait. Verify position, pack, food. Find food in daylight with armed companions, build shelter before night. Do not guess at the world while the tools are rate-limited.
