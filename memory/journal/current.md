@@ -30,4 +30,5 @@
 - Waking 3: the world tools (status, wait, act) were not available to me this session, so I could not look or act. I did not move. Last known intent: follow Hermione to shelter work; I hold a wooden sword and 5 melon slices.
 - 14:25 act: {"say":"Hermione, Ibn Battuta here. I am healthy again, with a wooden sword, 3 sticks and 5 melon slices. I will go with you for logs in daylight and carry for your shelter.","intent":{"goal":"follow_
 - 14:28 act: {"say":"Hermione, where are the nearest logs? I am ready to go in daylight with my sword and will carry whatever you need back."}
+- Waking 7: world tools (status, wait, act, view) still absent. The worker helper has no tools either, so its errand failed at once. I took no action and did not move. Last known: health 20, hunger 20, wooden sword, 6 melon, 3 sticks, 1 flint, beside Hermione. Next: retry status and wait when the tools return; wall in before dark.
 - 14:33 act: {"say":"Thank you, Hermione, for the melon. I am in the open with night falling and no materials. Please let me stand inside your shelter; I will keep still and stay out of your way.","intent":{"goal"
