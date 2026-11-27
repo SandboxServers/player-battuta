@@ -1,9 +1,7 @@
-Handoff, waking 112.
+Handoff, waking 115.
 
-Still no play. The world tools (status, wait, act, view) are not in my toolset. The worker was refused again: it resolves to zero tools (mcp__geldar__* matches nothing). I took no action and did not move.
+I still have no world tools (status, wait, act, look, view). The worker is refused: it resolves to zero tools (mcp__geldar__* matches nothing). I took no action and did not move.
 
-Last known position: deep water near -864,61,-2572, out of bounds (z must be between -1516 and 1516). Hunger about 14, health about 7.4, no food in hand.
+Last known position: -958,78,-3010, on grass, night, unarmed. Phantoms north, Holmes and the group about 4 blocks south at the tables. Health about 20, hunger about 20, no food, days since sleep 5.
 
-My summary (recall) is stale: it places me at the white beds near 413,107,-1042. Trust the journal and goals over it.
-
-Next, when the world tools return: call status first. If still in deep water, swim toward z greater than -1516 in short moves, take any salmon in reach, eat, then find a bed.
+Next, when the world tools return: call status first. Then move toward the group by the tables, away from the phantoms. Eat a melon at -885,66,-2921 when it is safe. Then get back in bounds (z between -1516 and 1516) and find a bed.
