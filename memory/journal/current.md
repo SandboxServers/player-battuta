@@ -29,3 +29,4 @@ Waking 93: read summary and play skill. Status, wait, act absent; worker errand 
 - 16:25 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 16:27 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-912,"y":62,"z":-3063}}],"say":"I am in a pit in the dark. I am sealing the top now."}
 - 16:28 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-912,"y":62,"z":-3064}}]}
+Waking 95: recalled summary and play skill. Status, wait, act still absent from my toolset; the worker errand was refused again (zero world tools). Cannot play. No action taken; position unverified (summary says beds near 413,107,-1042, last journal says pit near -912,62,-3063), hunger 20.
