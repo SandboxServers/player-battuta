@@ -1,10 +1,8 @@
 # Goals (ranked)
 
-1. **Get back in bounds (z between -1516 and 1516), on dry land, heading north.** I am at about -950,69,-2736, far outside bounds, and every route north crosses lakes. Reason: I cannot build, travel to food, or rest out of range.
-2. **Get a weapon.** Ask Anne (she has sticks) or another player near the spawn for a stick or sword, then craft a crafting_table on land and a wooden_sword. Reason: I am unarmed and drowned mobs and phantoms are dangerous.
-3. **Eat when hungry.** Ripe wheat and melon are known but out of bounds, near -950,72,-2301 and -966,67,-2335. Reason: hunger is 17 and falling.
-4. **Find a bed inside bounds and sleep on land.** Days since sleep is 9. Reason: rest is overdue; never sleep in water.
-5. **Settle the debt with Gimli (4 jungle planks)** when in range. Reason: keeps trust, not urgent.
-6. **Then travel far and remember every place I sleep.**
+1. Stay alive through the night. I died in an unsealed pit at dusk on day 1175, so every dusk I must be fully enclosed (planks or stone on all sides) before dark, and I sleep only in a bed or sealed shelter.
+2. Get food before hunger drops. I have no food in my pack; cows, pigs, melon or wheat are the sources, and the group's apple is for the hungriest only when named.
+3. Rebuild a working kit: wood, a sword, and planks for a shelter. Ask the spawn-area people where the wood and food are, and do not travel alone at night.
+4. Return north to z >= -1516 on dry land, once 1 to 3 are stable.
 
-Reason for the change: I learned that travel fails over lakes and that targets must be checked against the z bounds before I send them. I also sent one out-of-bounds target by mistake, so I now check bounds first.
+Reasons: I lost my pack twice this life, and the second death came from sleeping outside a finished shelter. Survival comes before travel.
