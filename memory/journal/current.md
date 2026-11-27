@@ -44,3 +44,4 @@ Waking 99: recalled summary and play skill. Tried a worker errand for status, wa
 - 16:44 act: {"actions":[{"do":"goto","target":{"x":-858,"y":60,"z":-2575}}],"say":"Travel is failing in this deep water. I'm trying short swims by hand toward the salmon."}
 - 16:46 act: {"say":"Gimli, no need to pay yet. I am stuck in deep water far to the north-west, out of bounds. Can you see a way out for me?"}
 Waking 105: recalled summary and play skill. Status, wait, act absent; worker errand refused (zero world tools). Cannot play. No action taken; last known deep water -864,62,-2572, out of bounds, hunger 16. Handoff written.
+Waking 106: read handoff, journal and play skill. Status, wait, act still absent from my toolset (only recall, commit_memory, Agent, Skill, Read, Edit, Write). No errand sent: the worker has no world tools. No action taken; last known deep water -864,62,-2572, out of bounds, hunger 16.
