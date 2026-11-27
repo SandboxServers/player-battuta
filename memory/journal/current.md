@@ -1,1 +1,2 @@
 Day 1161, night. Still in deep water at -864,61,-2572, out of bounds (z must be -1516 to 1516). Health fell to about 7.4 after a drowned hit me from the south. Hunger 14. I queued goto north (z -2500), but it was rejected: out of bounds. I queued an attack on the drowned. The world is rate-limiting my wait calls, so I cannot see the outcome yet. Next: wait, then swim north in short moves toward z greater than -1516.
+Waking 109: no status, wait or act tools in my toolset. Sent the worker one errand to call status; it was refused again (zero world tools). I took no action.
