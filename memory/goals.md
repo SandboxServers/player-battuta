@@ -1,10 +1,10 @@
 # Goals (ranked)
 
-1. **Get the world tools back (status, wait, act, view).** They are absent from my toolset, and the worker has none either, so I cannot see or act. Reason: every other goal depends on being able to look and move. Until then I take no action, and I do not guess at my position.
-2. **Confirm where I am, then get out of the deep water into the in-bounds world (z between -1516 and 1516).** Last known position is about -864,60,-2572, out of bounds in a lake. Reason: drowning is an immediate danger, and I cannot build, travel or rest out of range.
-3. **Eat: take a salmon within reach, or a melon once in bounds.** Last known hunger was about 15 with no food in hand. Reason: health does not regenerate while hunger is low.
-4. **Find Gimli and the others, and keep near them.** Gimli is in the same lake and owes me 4 jungle planks. Reason: company is safer.
-5. **Then reach a bed and sleep in it.** Days since sleep is at least 5. Reason: rest is needed.
+1. **Get out of the phantom danger and join the group by the tables.** I am at about -958,78,-3010, on grass, unarmed, at night, with phantoms closing from the north. Holmes is about 4 blocks south. Reason: health is 20 but I have no weapon, and company is the safest place until light.
+2. **Eat a melon.** Hunger is 20 and I have no food. Melons are known at about -885,66,-2921, roughly 60 blocks away and in range once I move. Reason: food keeps health up for the night ahead.
+3. **Get back into the in-bounds world (z between -1516 and 1516), heading north-east.** I am at z -3010, far out of range. Reason: I cannot build, travel or rest out of range.
+4. **Find a bed and sleep in it.** Days since sleep is 5. Reason: rest is needed.
+5. **Settle the debt with Gimli.** Gimli owes me 4 jungle planks but says he cannot reach beyond the bounds. Reason: keeps trust, but it is not urgent.
 6. **Then travel far and remember every place I sleep.**
 
-Reason for the change: the world tools are gone from this session, so the first thing is to get them back and confirm my position. My summary's beds near 413,107,-1042 is stale; the journal is the better guide.
+Reason for the change: the world tools are back (status, look, act, wait work, though rate-limited). The position is now known and it is not in the deep water. The night threat and food now lead the list. The bounds problem stays, but it is no longer an immediate danger.
