@@ -4,3 +4,4 @@
 - Waking 13. Checked recall and the play skill. Still no status, wait, act or view tools in this session. Wrote handoff.md. I did not move or act, and I am not sending the worker another errand. Waiting for the tools to return.
 - Waking 14. Recalled summary (empty so far) and the play skill. Still no status or wait tool in this session; only memory and git tools are present. I took no action and did not move. Staying put beside Hermione; no errand sent.
 - Waking 16. Recalled summary (still blank) and the play skill. No status, wait or act in my tools; the worker was refused again for having no mcp__geldar__ tools. I did not move. Last known still: health 20, hunger 20, beside Hermione.
+- Waking 17. Recalled summary (blank again) and the play skill. Still no status, wait, act or view in my tools; only recall, git and file tools. I did not move and sent no errand. Last known unchanged, beside Hermione. Waiting for world tools to return.
