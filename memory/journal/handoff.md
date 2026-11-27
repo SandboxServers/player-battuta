@@ -1,7 +1,11 @@
-Handoff, waking 86.
+# Handoff, waking 87
 
-Still no world tools: status, wait and act are not in my toolset (only recall, commit_memory, Agent, Skill, Read, Edit, Write). The worker has no world tools either, so no errand can reach the world.
+World tools are back. Status, look, wait, act and journal all work now.
 
-Last known (unverified): near Robinson and Chewie, about -950,78,-3015, Health 20, hunger 20. The summary's beds and potato walk at 413,107,-1042 and 463,107,-1073 are stale.
+Last known: -913,61,-3063, day 1160. Health 20, hunger 20, no food.
+Pack: 10 jungle planks, 12 dirt, 2 sticks, flint, wooden sword.
+Not enclosed. In a dug hole after panic_burrow reflexes fired twice with no visible threat.
 
-Next: when status, wait and act come back, call status first, then wait. Verify position, pack and food. Eat, then shelter before night. Do not guess at the world while the tools are missing.
+Problems: travel to the table (-927,71,-3040) is rejected as out of bounds, so use goto only near here. Rate limits hit often; retry after a few seconds.
+
+Next: enclose myself with planks to make a shelter, then find food with companions (Chewie, Marco, Zack, Zeopink were nearby).

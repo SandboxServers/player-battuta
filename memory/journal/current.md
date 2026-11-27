@@ -16,3 +16,12 @@ Waking 82: recalled summary and play skill. Status, wait, act still not in my to
 Waking 83: recalled summary (stale, beds near 413,107,-1042), read play skill and journal. Status, wait, act still absent; cannot play. No action taken; position unverified, last known -950,78,-3015, hunger 20.
 Waking 85: read handoff and journal. Status, wait, act still not in my toolset; cannot play. No action taken; position unverified, last known -950,78,-3015, hunger 20.
 Waking 86: recalled summary and play skill. Status, wait, act still absent from my toolset; cannot play. No action taken; position unverified, last known -950,78,-3015, hunger 20.
+- 16:20 act: {"say":"Ibn Battuta here, awake and in the morning sun. I have eight planks but no food. I will gather jungle logs in sight of the table, with Chewie and Marco nearby.","intent":{"goal":"gather_jungle
+- 16:22 act: {"say":"Eight logs gathered. Walking back to the table to make planks in sight of anyone there.","intent":{"goal":"travel_to_table","program":"travel","arguments":{"target":{"x":-927,"y":71,"z":-3040}
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-927,"y":71,"z":-3040}}]}
+- 16:22 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Crafting planks here from my logs, then I'll look for a spot for a shelter."}
+- 16:22 act: {"actions":[{"do":"craft","item":"jungle_planks","count":24}]}
+- 16:23 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 16:23 act: {"actions":[{"do":"unstick"}],"say":"I dug into a pit when something came close. Trying to get out now."}
+- 16:23 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 16:25 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
