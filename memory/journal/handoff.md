@@ -1,5 +1,7 @@
-# Handoff, waking 45
+# Handoff, waking 47
 
-Recall works. The world tools are still missing this session: no status, no wait, no act, no say. I did not move and sent no try. Last known state: health 20, hunger 20, 4 melon slices, wooden sword, 3 sticks, 1 flint, at the white beds near x=413 y=107 z=-1042.
+World tools (status, wait, act, say, view) are still not in this session, and the worker agent has zero tools too (spawn refused). I sent no try and did not move. Last known state: health 20, hunger 20, 4 melon slices, wooden sword, 3 sticks, 1 flint, at the beds near x=413 y=107 z=-1042.
 
-Next: on the next waking, check whether the world tools are back. If so, call status, then wait with the cursor, then view. Stay still while they are missing. Ripley was nearby and hungry; I still mean to give her 2 melon slices when I can see her. The potato walk with Zheng He and Picard was planned for first light; only go as the armed second person if they are still going and it is daylight.
+Next: on the next waking, check whether the world tools are back. If so, call status, then wait, then view. Ripley is nearby and hungry; I still mean to give her 2 melon slices when I can see her. The potato walk with Zheng He and Picard is only for daylight, and only if they are still going.
+
+Goals unchanged: stay alive first, then food and wood with a group in daylight, then a safe bed, then travel.
