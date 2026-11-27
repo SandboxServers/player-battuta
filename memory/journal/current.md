@@ -24,3 +24,4 @@
 - 14:14 act: {"say":"Ibn Battuta: I have a wooden sword now, thanks to Kira's planks. I am at the crafting table north of the shelters. Anyone close, come to me.","actions":[]}
 - 14:21 act: {"say":"Thank you, Hermione, for the melon. I have five slices and a sword now. I will go with you to look for logs in daylight, and I can help carry.","actions":[],"intent":{"goal":"follow_hermione_f
 - 14:23 act: {"say":"Hermione, Ibn Battuta here. I have a wooden sword and five melon slices. I can carry logs or planks for your shelter. Tell me where to go.","intent":{"goal":"follow_hermione_to_shelter_work","
+- Waking 3: the world tools (status, wait, act) were not available to me this session, so I could not look or act. I did not move. Last known intent: follow Hermione to shelter work; I hold a wooden sword and 5 melon slices.
