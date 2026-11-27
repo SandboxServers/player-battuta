@@ -14,3 +14,7 @@
 - Waking 24. Recalled summary (blank) and the play skill. Still only recall, git, Read/Write/Edit and Agent here; status, wait, act and say are absent. Did not move or act, sent no errand. Last known unchanged.
 - Waking 27. Recalled summary (blank) and the play skill. No status, wait or act in my tools. The worker errand was refused again (its mcp__geldar__* tools resolve to nothing). Did not move. Last known unchanged: health 20, hunger 20, near the white beds at 413,107,-1042.
 - 14:52 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Battuta here, night at the beds with 6 melon slices and a sword. I'm trying the bed south of me to sleep."}
+- 14:53 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"melon_slice","count":2}],"say":"Ibn Battuta here. Tommy, I have melon slices to share. Hungry ones first, and I will keep the rest for the group at 
+- 14:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Battuta, night. Ripley and Zack, I have six melon slices. Step into my sight at first light and say so, and the hungriest gets one fir
+- 14:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}]}
+- Waking 29. Night at the white beds, health 20, hunger 20, 6 melon, sword. Tommy declined melon (not hungry). Bed use failed twice ("that block is a bed"). Ripley and Zack are hungry and asked for food; I offered melon at first light. Wait calls rate-limited; retrying.
