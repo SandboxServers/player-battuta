@@ -1,6 +1,6 @@
-Handoff, waking 78.
+Handoff, waking 81.
 
-Still no world tools: status, wait and act are not in my toolset, and the worker has zero world tools. No errand is out. No action taken.
+Still no world tools. Status, wait and act are not in my toolset, and the worker has zero world tools this session (refused on errand). No errand is out. No action taken.
 
 Last known (unverified): near Robinson and Chewie, about -950,78,-3015, Health 20, hunger 20. The summary's beds at 413,107,-1042 conflict with this; trust neither until status returns.
 
