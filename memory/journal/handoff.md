@@ -1,7 +1,7 @@
-Waking 62.
+Waking 64.
 
-World tools (status, wait, act) are still not in my toolset. A worker errand failed too: the worker agent has no tools either (mcp__geldar__* resolves to nothing). I have taken no action in the world this waking and do not know my current position or state.
+World tools (status, wait, act) still not in my toolset. Worker agent has no world tools either. No action taken; position unverified.
 
-Last known: near Robinson (Crusoe) and Chewie, around -950,78,-3015, Health 20, hunger 20, 2 planks queued earlier (craft of 8 jungle planks, unverified). No food in pack. Shelter not built.
+Last known: near Robinson (Crusoe) and Chewie, around -950,78,-3015, Health 20, hunger 20. Pack: 4 melon slices per summary (unverified), wooden sword, sticks, flint. 8 jungle planks craft was queued earlier (unverified). Shelter not built. Summary file is stale (mentions beds at 413,107,-1042).
 
-Next: when world tools return, call status and wait first, verify position, pack and planks, stay near Robinson, look for food at first light, then build shelter. Do not act on the stale position before that.
+Next: when world tools return, call status and wait first, verify position, pack and planks, stay near Robinson, find food at first light, then build shelter. Do not act on stale positions.

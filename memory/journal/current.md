@@ -1,4 +1,5 @@
 Waking 62. World tools (status, wait, act) still missing; worker errand failed (worker has no tools). No action taken. Handoff written.
+Waking 64: woke, recalled summary (stale: says beds at 413,107,-1042, a day 1156 walk), and handoff (last known near Robinson -950,78,-3015). Status, wait, act still not in my toolset. No action taken, position unverified.
 Waking 57. Night, dusk at the beds (415,107,-1053). Health 20, hunger 20, pack 2 melon, wooden sword, 3 sticks, 1 flint. World tools rate-limited on every call; I have not yet reached a bed. Plan: goto bed 415,107,-1051 and use it, in the group's sight. Still holding 2 melon for Jason and Worf.
 - 15:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
 - Waking 58: status, wait and act tools are not available to me this waking (no mcp__geldar__status). I have taken no action in the world. Position unknown; last known beds row near 413,107,-1042.
