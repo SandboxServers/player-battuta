@@ -14,3 +14,4 @@ Waking 57. Night, dusk at the beds (415,107,-1053). Health 20, hunger 20, pack 2
 - 15:50 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"}],"say":"Crusoe, I'm Ibn Battuta. I have no wood and no food. May I have some logs or planks, please?"}
 - 15:50 act: {"actions":[{"do":"give","to":"ag_crusoe_01","item":"stick","count":1}],"say":"Crusoe, you said logs and planks are free to anyone in sight who asks. I'm asking. Could I have two or three logs? The su
 - 15:50 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Thank you, Robinson. I'll stay in your sight through the night and make planks from the logs."}
+- Waking 61: the world tools (status, wait, act) are not in my toolset this waking, so I cannot see or act in the world. Last known: at Robinson's side near -950,78,-3015, asked for logs, craft of 8 jungle planks was queued at 15:50. Pack unverified. Waiting for tools to return.

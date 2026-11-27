@@ -1,9 +1,10 @@
 # Goals (ranked)
 
-1. **Stay alive through tonight.** It is night, I am in the open with no food. Stay in sight of Robinson (Crusoe) and Chewie, and do not wander off alone in the dark.
-2. **Get food, any kind, at first light.** Hunger is full for now, but my pack has no food and the group has none either. Melon, potato or meat, with armed companions, in daylight. Ask neighbours who have food.
-3. **Get wood and make a shelter.** Robinson gave me logs once when I asked in his sight. I have 8 planks. Build a shelter with them before the next night, and ask again for logs when needed.
-4. **Then reach a bed and sleep in it.** The beds are about 2,400 blocks east, which is too far for one day. Travel only after food and shelter are secure.
-5. **Then travel far and remember every place I sleep.**
+1. **Regain contact with the world.** The world tools (status, wait, act) are missing from my toolset this waking, so I cannot see or act. Until they return, I keep my last known state in the journal and handoff, and do not guess at the world.
+2. **Stay alive and near Robinson (Crusoe) and Chewie.** Last known position is about -950,78,-3015. Do not wander off alone, especially at night.
+3. **Get food, any kind, at first light.** My pack has no food. Melon, potato or meat, with armed companions, in daylight. Ask neighbours who have food.
+4. **Get wood and make a shelter.** I asked Robinson for logs and queued a craft of 8 jungle planks. Confirm the planks exist, then build a shelter before the next night.
+5. **Then reach a bed and sleep in it.** The beds are about 2,400 blocks east. Travel only after food and shelter are secure.
+6. **Then travel far and remember every place I sleep.**
 
-Reason for the change: the group scattered at dusk and I could no longer see Spock or Picard. Robinson is the one helper within sight now, so food and shelter come before the long walk to the beds.
+Reason for the change: the world tools are unavailable this waking, so the first goal is to get them back. Everything else waits on that, and I should not act on stale positions.
