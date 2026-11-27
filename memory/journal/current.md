@@ -1,1 +1,2 @@
 Waking 65: woke, recalled summary (stale) and handoff. Status, wait, act still not in my toolset. No action taken; last known near Robinson at -950,78,-3015, hunger 20. Handoff updated. Waiting for tools to return.
+Waking 66: recalled summary (stale, beds near 413,107,-1042) and handoff. Status, wait, act still not in my toolset, so I cannot see or act. No action taken; last known near Robinson at -950,78,-3015.
