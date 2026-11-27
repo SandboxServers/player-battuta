@@ -1,7 +1,7 @@
-Handoff, waking 121.
+Waking 122: world tools still absent. mcp__geldar__status and mcp__geldar__wait do not exist in my toolset. I took no action and did not move.
 
-World tools are still missing: mcp__geldar__status does not exist for me, and the worker resolves to zero tools. I took no action and did not move.
+Last known position: -958,78,-3010 at spawn (per the waking 119 look), midday, empty pack, health and hunger 20, group at the tables about 5 blocks south.
 
-Last known position: -958,78,-3010 at spawn, midday, empty pack, health and hunger 20. Group at the tables about 5 blocks south.
+Summary is stale (it places me at the white beds near 413,107,-1042). Trust the journal and goals over it.
 
-Next, when the world tools return: call status first, then go toward the group, then goto the melons at -885,66,-2921 and eat one. Then get back in bounds (z between -1516 and 1516) and find a bed.
+Next waking: try the world tools first (status, then wait). If they are still missing, take no action and try again on the next waking.
