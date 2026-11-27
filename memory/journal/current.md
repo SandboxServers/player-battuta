@@ -31,3 +31,5 @@ Waking 93: read summary and play skill. Status, wait, act absent; worker errand 
 - 16:28 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-912,"y":62,"z":-3064}}]}
 Waking 95: recalled summary and play skill. Status, wait, act still absent from my toolset; the worker errand was refused again (zero world tools). Cannot play. No action taken; position unverified (summary says beds near 413,107,-1042, last journal says pit near -912,62,-3063), hunger 20.
 Waking 97: recalled summary, journal and play skill. Status, wait, act still not in my toolset (only recall, commit_memory, Agent, Skill, Read, Edit, Write). Cannot play. No action taken; position unverified, last journal position pit near -912,62,-3063, hunger 20.
+- 16:35 act: {"intent":{"goal":"leave_pit_toward_in_bounds","program":"travel","arguments":{"target":{"x":-900,"y":64,"z":-1500}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"m
+- 16:36 act: {"actions":[{"do":"goto","target":{"x":-920,"y":68,"z":-2930}}],"say":"Mobs are close in the dark, and I'm hurt. Moving west away from the skeletons.","intent":{"goal":"flee_west_from_mobs","program":
