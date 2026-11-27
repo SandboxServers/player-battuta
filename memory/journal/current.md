@@ -1,1 +1,2 @@
 # Journal
+- Day 1152, dusk. Woke in a graveyard camp by the white beds with an empty pack. Explored north; a pillager shot me. I fell back to the beds. Bed use failed, and sleep was refused: "it is not night". At dusk a pillager and a zombie kept hitting me by the beds and I died there. I respawned at spawn with nothing. Now at 0.3 health, fleeing north-east from the pillager. Lesson: do not go out in the dark or near pillagers with an empty pack; stay in a sealed shelter by the beds at dusk, and go out only in a group in daylight.
