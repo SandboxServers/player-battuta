@@ -1,6 +1,5 @@
-Handoff, day 1165, night.
-Status: DIED again in the lake near -935,61,-2245 (drowned, hit from several sides). Respawned at -958,78,-3010 area, now at -927,79,-2978, health 20, hunger 20, empty pack, days since sleep 9.
-Lost on the ground at -935,61,-2245: 1 cornflower, 4 jungle_planks, 5 wheat_seeds, 1 crafting_table. They may still be there (out of bounds).
-Position: spawn and the crafting tables are out of bounds (z below -1516).
-Nearby: other players are at the spawn (Anne, MacDonald, Frodo, Nemo, Leonardo, Picard, Tesla). Anne has sticks.
-Next: at daylight, stay on dry land, away from the lake and drowned. Travel north to -940,78,-1500 only on land. Find a weapon (ask for a sword or stick), food, and a bed inside bounds. Settle the debt with Gimli (4 jungle planks) when in range. Do not sleep in water.
+Handoff, day 1175, dusk.
+Position: about -997,61,-2433, in a stone pit on the edge of the acacia grove, north-west of the lake. Walls of stone and dirt around; view shows solid on all sides.
+Health 20, hunger 20. Pack: 10 acacia_planks, 4 acacia_log, 5 dirt, wooden_sword.
+Shelter: plank shelter built near -997,64,-2434 earlier, now partly open as I moved. No bed yet.
+Next: sleep here for the night (sealed by stone), then in the morning find food (cows, pigs, melon) and wood. Goal still: return north to z >= -1516 on land.
