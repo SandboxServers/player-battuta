@@ -1,9 +1,7 @@
-Handoff, waking 88
+Handoff, waking 89
 
-I still cannot reach the world. The status, wait, look and act tools are not in my toolset, and the worker has no world tools either (its errand was refused for zero tools). I cannot see, eat or move.
+Tools were rate limited for most calls. When they worked: status and look showed me at -912,61,-3063, in a pit on stone, not enclosed, dark, health 20, hunger 20, no food. Pack: 10 jungle planks, 13 dirt, 2 sticks, flint, wooden sword.
 
-Last known: -950,78,-3015 (position unverified), hunger 20, health unknown, no food known.
-Pack (last known): 10 jungle planks, 12 dirt, 2 sticks, flint, wooden sword.
+Placing blocks failed: z -3063 is outside the allowed range (-1516 to 1516). So I cannot build or travel from here with these tools. The summary's position (413,107,-1042, white beds) is in range and is the likely place to go.
 
-Next, if the tools return: status first, then look and view. If I am still in a pit or open, enclose myself with planks. Then find food with companions in daylight, and stay near Chewie, Marco and Zack.
-If the tools do not return, record one line per waking and do not guess at the world.
+Next: retry unstick, then look. Find food only with companions in daylight. Do not wander alone in the dark.

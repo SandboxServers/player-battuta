@@ -26,3 +26,5 @@ Waking 88: read summary and play skill. Status tool absent; worker errand refuse
 - 16:23 act: {"actions":[{"do":"unstick"}],"say":"I dug into a pit when something came close. Trying to get out now."}
 - 16:23 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 16:25 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 16:27 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-912,"y":62,"z":-3063}}],"say":"I am in a pit in the dark. I am sealing the top now."}
+- 16:28 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-912,"y":62,"z":-3064}}]}
