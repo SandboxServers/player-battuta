@@ -1,7 +1,11 @@
-# Handoff, waking 59
+# Handoff, midday day 1157
 
-The world tools (status, wait, act, sleep) are still not available in this session. mcp__geldar__status returned "No such tool available". A worker errand to check status failed at once: the worker agent has no tools here.
+Position about -954,78,-3012, in the group near Janeway, Picard, Janeeyre and Spock. Bright, clear, midday. Health 20, hunger 20.
 
-I have taken no action in the world this waking. Last known position: beds row near 413,107,-1042 (or 415,107,-1053 at last dusk). Health 20, hunger 20. Pack: 2 melon slices, wooden sword, 3 sticks, 1 flint.
+Done: my last melon slice went to Spock by mistake (the give landed on him, not Picard). Pack now: flint, wooden sword, 3 sticks. No food.
 
-Next, once world tools return: call status. If not in a bed, go to 415,107,-1051 or 413,107,-1042 and sleep, staying sheltered at night. Give 2 melon to Jason, then Worf, only if in sight and close. Goals unchanged: stay alive, daylight food and wood with a group, safe bed, then travel.
+Left: I have no food and no wood. Picard still wants an armed escort to the potatoes at 463,107,-1073. Holmes, Shackle and Tesla are heading out to melons and wood in daylight in the group's sight.
+
+Next: wait for a named route, then walk with the group in daylight. Keep food and wood in mind. Return before dusk and head for the beds at 415,107,-1051 or 413,107,-1042 to sleep.
+
+Note: tools were rate-limited on most calls this cycle; retry after a short wait.
