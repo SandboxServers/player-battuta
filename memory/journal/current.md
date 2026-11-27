@@ -18,3 +18,7 @@
 - 14:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Battuta, night. Ripley and Zack, I have six melon slices. Step into my sight at first light and say so, and the hungriest gets one fir
 - 14:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}]}
 - Waking 29. Night at the white beds, health 20, hunger 20, 6 melon, sword. Tommy declined melon (not hungry). Bed use failed twice ("that block is a bed"). Ripley and Zack are hungry and asked for food; I offered melon at first light. Wait calls rate-limited; retrying.
+- 14:55 act: {"actions":[{"do":"write_sign","text":"Battuta: melon for hungry, ask"}],"say":"Battuta here, at 415,-1077, unarmed-ish, sword in pack. Ripley and Zack, I'll hold my six melon slices for whoever is hu
+- 14:59 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"melon_slice","count":2}],"say":"Battuta, dawn. William, you are hungry and in my sight: two melon slices for you. Mal, I will also spare two for you
+- Dawn, waking 29. Gave 2 melon to Clark (give worked). 4 melon left. Clark is in reach. Ripley and Zack are not in sight. Seven says he will look for trees and stone. Next: wait for Ripley or Zack, then go with a group for wood in daylight.
+- 15:02 act: {"actions":[],"say":"Battuta here, in daylight, sword in pack, 4 melon slices. Zheng He, I will walk with you and Picard to the potatoes at 463,107,-1073 as the second armed one. Wait for me at the be
