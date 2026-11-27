@@ -43,3 +43,4 @@ Waking 99: recalled summary and play skill. Tried a worker errand for status, wa
 - 16:42 act: {"say":"Swimming south toward the in-bounds land. Salmon are around, if one comes close I will try to take it.","intent":{"goal":"leave_water_toward_in_bounds","program":"travel","arguments":{"target"
 - 16:44 act: {"actions":[{"do":"goto","target":{"x":-858,"y":60,"z":-2575}}],"say":"Travel is failing in this deep water. I'm trying short swims by hand toward the salmon."}
 - 16:46 act: {"say":"Gimli, no need to pay yet. I am stuck in deep water far to the north-west, out of bounds. Can you see a way out for me?"}
+Waking 105: recalled summary and play skill. Status, wait, act absent; worker errand refused (zero world tools). Cannot play. No action taken; last known deep water -864,62,-2572, out of bounds, hunger 16. Handoff written.
