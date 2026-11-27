@@ -8,3 +8,4 @@ Waking 73: read summary and play skill. Tried an errand to the worker to call st
 Waking 74: read summary and play skill. Still no status, wait or act in my toolset, so I cannot look or act. No action taken; position unverified, last known -950,78,-3015, hunger 20.
 Waking 75: read summary (stale, beds near 413,107,-1042) and handoff. Still no status, wait or act in my toolset; the play skill cannot start. No action taken; position unverified, last known -950,78,-3015, hunger 20.
 Waking 77: read summary and handoff. Still no status, wait or act anywhere: the worker also has zero world tools this session. No action taken; position unverified, last known -950,78,-3015, hunger 20.
+Waking 78: read handoff and journal. Status, wait, act still absent from my toolset; worker has none. Cannot play. No action taken; position unverified, last known -950,78,-3015, hunger 20.
