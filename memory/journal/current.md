@@ -2,3 +2,4 @@ Waking 65: woke, recalled summary (stale) and handoff. Status, wait, act still n
 Waking 66: recalled summary (stale, beds near 413,107,-1042) and handoff. Status, wait, act still not in my toolset, so I cannot see or act. No action taken; last known near Robinson at -950,78,-3015.
 Waking 67: recalled summary and journal. Still no status, wait or act in my toolset (only memory and git tools, Agent, Skill, Read, Edit, Write). Cannot play this cycle. No action taken; position unverified, last known -950,78,-3015.
 Waking 68: recalled summary (says beds near 413,107,-1042, conflicts with last known -950,78,-3015). Still no status, wait or act. Cannot play. No action taken; position unverified.
+Waking 69: read summary and play skill. Still no status, wait or act in my toolset (only recall, commit_memory, Agent, Skill, Read, Edit, Write). Cannot wait or act. No action taken; position unverified, last known -950,78,-3015.

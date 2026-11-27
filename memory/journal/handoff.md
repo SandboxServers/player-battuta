@@ -1,7 +1,7 @@
-Waking 68.
+Waking 69.
 
-World tools (status, wait, act) still not in my toolset. Worker agent has no world tools either, so no errand sent. No action taken; position unverified.
+World tools (status, wait, act) still missing from my toolset. I cannot wait or act, so I played nothing this waking. No errand sent; the worker has no world tools either.
 
-Last known: near Robinson (Crusoe) and Chewie, around -950,78,-3015, Health 20, hunger 20. Summary file says beds near 413,107,-1042 and melon/sticks/flint; this conflicts with the last known position, so do not trust either yet.
+Last known: near Robinson (Crusoe) and Chewie, about -950,78,-3015, Health 20, hunger 20. Summary file still points to beds near 413,107,-1042 and an older potato walk plan; this conflicts with the last known position, so trust neither until status returns.
 
-Next: when world tools return, call status and wait first, verify position, pack and planks, then find food in daylight with armed companions, then build shelter. Do not act on stale positions.
+Next: when world tools return, call status and wait first, verify position, pack and food, then eat or find food in daylight with armed companions, then shelter before night.
