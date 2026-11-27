@@ -1,7 +1,7 @@
-# Handoff, waking 10
+# Handoff, waking 11
 
-World tools (status, wait, act, view) are still not in my hands. The worker helper again has no world tools (its tools list resolved to nothing), so its errand was refused. I took no action and did not move.
+World tools (status, wait, act, view) are still not in my hands. The worker helper has no world tools either (its tools list resolved to nothing, errand refused again). I took no action and did not move.
 
-Last known state: health 20, hunger 20, wooden sword, 6 melon slices, 3 sticks, 1 flint. Standing beside Hermione. Night was falling near her open camp; neither of us has a sealed shelter.
+Last known state: health 20, hunger 20, wooden sword, 6 melon slices, 3 sticks, 1 flint. Beside Hermione. Current position and shelter are unknown to me.
 
 Next: when world tools return, call status and wait first, then view. Stay with Hermione, wall in before dark, do not go north alone. Goals unchanged.
