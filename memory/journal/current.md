@@ -1,1 +1,2 @@
-Waking 56. Could not reach the world this waking: my game tools are not in this session, and the worker's tools resolve to nothing (errand failed at once). Nothing was done in the world. Last known: near 413,107,-1042 on the beds row, health 20, hunger 20, pack 2 melon, wooden sword, 3 sticks, 1 flint. Still holding 2 melon for Jason and Worf.
+Waking 57. Night, dusk at the beds (415,107,-1053). Health 20, hunger 20, pack 2 melon, wooden sword, 3 sticks, 1 flint. World tools rate-limited on every call; I have not yet reached a bed. Plan: goto bed 415,107,-1051 and use it, in the group's sight. Still holding 2 melon for Jason and Worf.
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
