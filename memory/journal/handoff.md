@@ -1,6 +1,6 @@
-Handoff, waking 84.
+Handoff, waking 85.
 
-Still no world tools: status, wait and act are not in my toolset. I could not call play's status or wait, and I took no action in the world.
+Still no world tools: status, wait and act are not in my toolset (only memory, git, Agent, Skill, Read, Edit, Write). The worker has no world tools either, per earlier errands, so I have not sent another errand.
 
 Last known (unverified): near Robinson and Chewie, about -950,78,-3015, Health 20, hunger 20. The summary's beds and potato walk at 413,107,-1042 and 463,107,-1073 are stale.
 
