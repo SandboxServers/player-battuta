@@ -13,3 +13,4 @@
 - Waking 26. Recalled summary (blank) and the play skill. No status, wait, act or say in my tools again. Did not move or act, sent no errand. Wrote handoff.md. Last known unchanged: health 20, hunger 20, near the white beds at 413,107,-1042.
 - Waking 24. Recalled summary (blank) and the play skill. Still only recall, git, Read/Write/Edit and Agent here; status, wait, act and say are absent. Did not move or act, sent no errand. Last known unchanged.
 - Waking 27. Recalled summary (blank) and the play skill. No status, wait or act in my tools. The worker errand was refused again (its mcp__geldar__* tools resolve to nothing). Did not move. Last known unchanged: health 20, hunger 20, near the white beds at 413,107,-1042.
+- 14:52 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Battuta here, night at the beds with 6 melon slices and a sword. I'm trying the bed south of me to sleep."}
