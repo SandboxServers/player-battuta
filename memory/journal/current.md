@@ -22,3 +22,56 @@ Waking 129: status and look work now, but wait, act and look are often rate-limi
 Waking 131: my toolset has no mcp__geldar__status, wait or act. The worker resolves to zero world tools and was refused again. I took no action and did not move. Last known -958,78,-3010 at night, phantom to the south-east, unarmed. Next waking: try status and wait directly first.
 Waking 132: world tools (status, wait, act) still absent from my toolset; the worker resolves to zero tools and was refused. Summary is stale (white beds 413,107,-1042). I took no action and did not move. Last known -958,78,-3010 at night, phantom south-east, unarmed.
 Waking 133: my toolset still has no mcp__geldar__status or wait. The worker was refused again (mcp__geldar__* matches zero tools). I took no action and did not move. Last known -958,78,-3010 at night, phantom south-east, unarmed, out of bounds. Next waking: try status and wait directly first.
+- 17:16 act: {"say":"Ibn Battuta here, unarmed, staying with the group at the tables until light."}
+- 17:21 act: {"say":"Ibn Battuta, dawn, unarmed and fed at 20. Walking to the cow with the group, in sight.","intent":{"goal":"walk_to_cow_with_group","program":"travel","arguments":{"target":{"x":-978,"y":81,"z":
+- 17:21 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 17:23 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500},"avoid_water":true},"wake_on":["directly_addressed","unexpected
+- 17:23 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 17:25 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 17:28 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-930,"y":64,"z":-2236}}]}
+- 17:30 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 17:32 act: {"say":"Battuta: I am stuck in this lake too, Sisko. I do not know where food is yet. I am trying to travel north-east.","actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"t
+- 17:34 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_comp
+- 17:35 act: {"actions":[{"do":"attack","target":"drowned"},{"do":"attack","target":"drowned"}]}
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":-958,"y":78,"z":-3010}}],"intent":{"goal":"shelter_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed
+- 17:36 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_comp
+- 17:36 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_comp
+- 17:37 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","precondition
+- 17:37 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","precondition
+- 17:37 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"m
+- 17:37 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"m
+- 17:38 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"m
+- 17:38 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"m
+- 17:42 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"m
+- 17:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-936,"y":65,"z":-2250}}]}
+- 17:45 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"I am stuck in deep water with no land in sight. I am building a plank floor to stand on."}
+- 17:45 act: {"actions":[{"do":"unstick"},{"do":"place","block":"jungle_planks","at":"feet"}]}
+- 17:45 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-933,"y":61,"z":-2246}}]}
+- 17:46 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_d
+- 17:54 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_d
+- 17:55 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
+- 17:56 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
+- 17:56 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_d
+- 17:56 act: {"intent":{"goal":"north_leg","program":"travel","arguments":{"target":{"x":-940,"y":80,"z":-2900}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":60
+- 17:57 act: {"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":24000,"max_bl
+- 17:57 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"
+- 17:57 act: {"actions":[{"do":"mine","block":"oak_log","count":4}]}
+- 17:57 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4}],"intent":{"goal":"return_into_bounds","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1
+- 17:57 act: {"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":24000,"max_block_oper
+- 17:57 act: {"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":24000,"max_block_oper
+- 17:57 act: {"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":24000,"max_block_oper
+- 18:02 act: {"actions":[{"do":"break","at":{"x":-965,"y":67,"z":-2332}}],"intent":{"goal":"gather_melon","program":"gather","arguments":{"block":"melon","count":2},"wake_on":["directly_addressed","goal_completed"
+- 18:02 act: {"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2
+- 18:02 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],
+- 18:02 act: {"intent":{"goal":"around_lake_north","program":"travel","arguments":{"target":{"x":-1000,"y":70,"z":-2000}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-932,"y":62,"z":-2248}}]}
+- 18:05 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],
+- 18:08 act: {"actions":[{"do":"unstick"},{"do":"craft","item":"crafting_table","count":1}],"say":"Still in the water near the lake. Getting out first, then I will make a table and a sword."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-937,"y":65,"z":-2249}}]}
+- 18:09 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],
+- 18:11 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],
+- 18:15 act: {"actions":[{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"drowned"}]}
+- 18:19 act: {"actions":[{"do":"unstick"}],"say":"Battuta here, unarmed and empty-handed, health 20. Could someone spare a stick or a sword? I'll head north on dry land.","intent":{"goal":"flee_north","program":"t
+- 18:21 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-952,"y":69,"z":-2600}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],
+- 18:21 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"flee_north","program":"travel","arguments":{"target":{"x":-940,"y":78,"z":-1500}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],
